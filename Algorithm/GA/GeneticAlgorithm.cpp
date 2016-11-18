@@ -3,7 +3,6 @@
 * 
 * Created at 2012-05 -17, 15:35 PM by Wilfred You
 *
-* NeuralNetworks.cpp - Implementation of single level neural networks algorithm
 */
 
 // GA.cpp : Defines the entry point for the console application.

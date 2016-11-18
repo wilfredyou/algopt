@@ -1,3 +1,8 @@
+/*
+*Source file of Portfolio Optimization Libraray, Version 1.0.0.0
+* Created at 2012-05 -17, 15:35 PM by Wilfred You
+*/
+
 #ifndef _H_NEURALNETWORKS_
 #define _H_NEURALNETWORKS_
 
